@@ -1,0 +1,15 @@
+{
+    "name": "Game2048.Runtime",
+    "rootNamespace": "Game2048",
+    "references": [
+        "Game2048.Core",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

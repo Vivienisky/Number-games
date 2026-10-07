@@ -1,0 +1,10 @@
+{
+    "name": "Game2048.Core",
+    "rootNamespace": "Game2048.Core",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true,
+    "noEngineReferences": true
+}
